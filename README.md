@@ -1,10 +1,10 @@
 # 📚 **Book Bytes** – *Explore Books in 3D!*
 
-![Book Bytes Banner](https://your-image-url.com/banner.png)
+![Book Bytes Banner](https://github.com/Hiomio/3D-Book-Slider/blob/master/Logo.png)
 
 **Book Bytes** is an **interactive 3D book slider** built with **React Three Fiber**. It brings books to life in a **beautiful, immersive** experience, perfect for showcasing collections dynamically.
 
-🔗 **[Live Demo](https://your-live-demo-url.com)** | ⭐ **[Star this Repo](#)** | 🚀 **[Try it Now](#)**  
+🔗 **[Live Demo](https://3-d-sand.vercel.app/)** | ⭐ **[Star this Repo](#)** | 🚀 **[Try it Now](#)**  
 
 ---
 
@@ -22,7 +22,7 @@
 
 🚀 *See Book Bytes in action!*  
 
-![Book Bytes Demo](https://your-image-url.com/demo.gif)  
+![Book Bytes Demo](https://3-d-sand.vercel.app/)  
 
 ---
 
@@ -44,17 +44,11 @@ npm install
 npm run dev
 ```
 
-🌟 Open `http://localhost:3000` in your browser to see **Book Bytes** in action!
+🌟 Open `http://localhost:5173` in your browser to see **Book Bytes** in action!
 
 ---
 
-## 📸 **Screenshots**
 
-| 📚 Book Slider | 🌙 Dark Mode | 🎨 Customizable |
-|:-:|:-:|:-:|
-| ![Slider](https://your-image-url.com/slider.png) | ![Dark Mode](https://your-image-url.com/darkmode.png) | ![Customization](https://your-image-url.com/custom.png) |
-
----
 
 ## 🚀 **Tech Stack**
 
