@@ -22,7 +22,7 @@
 
 🚀 *See Book Bytes in action!*  
 
-![Book Bytes Demo](https://3-d-sand.vercel.app/)  
+[![Book Bytes Demo](https://github.com/Hiomio/3D-Book-Slider/blob/master/Logo.png)](https://3-d-sand.vercel.app/)  
 
 ---
 
